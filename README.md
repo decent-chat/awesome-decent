@@ -7,7 +7,9 @@
 * [Bots](#bots) (0)
 * [Libraries](#libraries) (1)
 
-### Implementations
+---
+
+## Implementations
 
 **Servers** - for running your own
 
@@ -21,16 +23,16 @@
 * [@decent/client](https://github.com/decent-chat/decent/tree/master/packages/client) - official web client
 * [(add yours!)](https://github.com/decent-chat/awesome-decent/edit/master/README.md)
 
-### Public servers
+## Public servers
 
 * [meta.decent.chat](https://github.com/decent-chat/decent/tree/master/packages/server) - for discussing Decent itself (directly with the developers!)
 * [(add yours!)](https://github.com/decent-chat/awesome-decent/edit/master/README.md)
 
-### Bots
+## Bots
 
 * This list is empty :( - [add yours!](https://github.com/decent-chat/awesome-decent/edit/master/README.md)
 
-### Libraries
+## Libraries
 
 * [decent.js](https://github.com/decent-chat/decent/tree/client-lib/packages/decent.js) - interact with Decent servers using JavaScript/Node.js
 * [(add yours!)](https://github.com/decent-chat/awesome-decent/edit/master/README.md)
