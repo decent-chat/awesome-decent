@@ -34,5 +34,5 @@
 
 ## Libraries
 
-* [decent.js](https://github.com/decent-chat/decent/tree/client-lib/packages/decent.js) - interact with Decent servers using JavaScript/Node.js
+* [decent.js](https://github.com/decent-chat/decent/tree/master/packages/decent.js) - interact with Decent servers using JavaScript/Node.js
 * [(add yours!)](https://github.com/decent-chat/awesome-decent/edit/master/README.md)
