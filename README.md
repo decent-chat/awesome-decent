@@ -25,7 +25,7 @@
 
 ## Public servers
 
-* [meta.decent.chat](https://github.com/decent-chat/decent/tree/master/packages/server) - for discussing Decent itself (directly with the developers!)
+* [meta.decent.chat](https://meta.decent.chat) - for discussing Decent itself (directly with the developers!)
 * [(add yours!)](https://github.com/decent-chat/awesome-decent/edit/master/README.md)
 
 ## Bots
